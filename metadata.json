@@ -1,0 +1,6 @@
+{
+  "name": "Digitex Creative Studio",
+  "description": "Leading creative studio in Mbale City, Uganda. High-impact graphic design, branding, commercial photography, and custom software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
